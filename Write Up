@@ -1,0 +1,18 @@
+Objective: Graph the relationship between the variables we choose against the vaccination status.
+3 variables that affect vax status : Age, Income, Education.
+Age: (Birth Year) plays into an effect, the newer generation Is more vaccinated compared to older vaccination.
+Income: Income affects COVID-19 vaccination access, with wealthier individuals benefiting from better healthcare, proximity to facilities, and affordability, while lower-income groups face barriers like cost, infrastructure, and misinformation.
+
+Education: level may be considered an overrated factor when determining whether a person has got a vaccine or not. I believe this to be the case as on paper, it may seem as though the higher the education level a person obtains, the more likely it is that they get the vaccine but that may not be the case as they may have some alternate beliefs. 
+
+Gender: an underrated factor may be as it may seem as though that being a certain gender has no impact on whether a person will opt in or out of the vaccination rule but that may not be the case. There have been studies that show that women are more hesitant to take the vaccine as there are concerns about the side effects to fertility, breastfeeding and hormonal changes.
+
+Table:
+Age, Education, Income, Vaccination status.
+
+Graph for each variable:
+Age           -> Vac status
+Income      -> Vac status
+Education  -> Vac status
+
+We will now present our code that visually depicts the relationship between our variables that affect vax status against the vax status itself:
